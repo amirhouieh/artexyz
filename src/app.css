@@ -1,0 +1,87 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.defs-only{
+    display: none;
+}
+
+body{
+    font-family: Georgia, monospace;
+    font-size: 16px;
+    padding: 50px;
+}
+
+.sans-serif{
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,b,strong{
+    font-weight: normal;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 34px;
+}
+
+small{
+    font-size: 10px;
+}
+
+img{
+    width: 100%;
+}
+
+.menu{
+    position: fixed;
+    width: 25%;
+    top: 50px;
+    left: 50px;
+}
+.menu > * {
+    margin-bottom: 2em;
+    max-width: 450px;
+    z-index: -999;
+}
+
+.content {
+    width: 75%;
+}
+
+
+.background-image{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.background-image > * {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
+
+.project{
+    margin-left: 40%;
+    margin-top: 6em;
+}
+
+.project img{
+    width: 20%;
+    margin: 20px;
+    filter: url("#monochrome");
+}
