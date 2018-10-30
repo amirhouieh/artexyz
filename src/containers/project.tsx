@@ -4,6 +4,7 @@ import {withRouteData} from 'react-static'
 import {ProjectData} from "../../data-module/types";
 import {GradBlurLetters} from "../components/grady-blury-text";
 import {randInt} from "../utils";
+import {Seo} from "../components/seo";
 
 interface Props {
     data: ProjectData
