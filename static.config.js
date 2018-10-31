@@ -34,7 +34,7 @@ export default {
         children: db.projects.map((project) => ({
           path: `/${project.slug}`,
           component: 'src/containers/project',
-          getData: () => ({data: project})
+          getData: () => ({data: project, sitedata: db.sitedata})
         }))
       },
       {

@@ -17,7 +17,7 @@ interface IProps {
 }
 
 
-const baseUrl = `https://artexyz.cool`;
+const baseUrl = `https://artexyz.info`;
 
 export const Seo: React.SFC<IProps> = ({seo, pathname = "", sitedata}) => {
     const url = join(baseUrl, pathname);
@@ -25,7 +25,7 @@ export const Seo: React.SFC<IProps> = ({seo, pathname = "", sitedata}) => {
     const title = seo && seo.title ? seo.title : sitedata.title;
     const description = seo && seo.description ? seo.description : sitedata.description;
     const image = seo && seo.thumb ? seo.thumb : sitedata.thumb;
-    const imgUrl = `images/${image.filename}`;
+    const imgUrl = `${baseUrl}/images/${image.filename}`;
 
     return (
         <Head>
@@ -34,19 +34,19 @@ export const Seo: React.SFC<IProps> = ({seo, pathname = "", sitedata}) => {
 
             <link rel="icon"
                   type="image/png"
-                  href={`images/${sitedata.thumb.filename}`}/>
+                  href={`${baseUrl}/images/${sitedata.thumb.filename}`}/>
 
             <meta
                 name={`description`}
                 content={`${description}`}
             />
 
-            <meta name={`copyright`} content={`neroc.nu`}/>
-            <meta name={`language`} content={`NL`}/>
-            <meta name={`Classification`} content={`Advertisement`}/>
-            <meta name={`author`} content={`Neroc.nu, info@neroc.nu`}/>
-            <meta name={`designer`} content={`Designbaord`}/>
-            <meta name={`owner`} content={`neroc.nu`}/>
+            <meta name={`copyright`} content={`amir houieh`}/>
+            <meta name={`language`} content={`EN`}/>
+            <meta name={`Classification`} content={`art`}/>
+            <meta name={`author`} content={`amir houieh, amir.houieh@gmail.com`}/>
+            <meta name={`designer`} content={`amir houieh`}/>
+            <meta name={`owner`} content={`amir houieh`}/>
             <meta name={`url`} content={url}/>
             <meta name={`identifier-URL`} content={url}/>
             <meta name={`og:title`} content={title}/>
