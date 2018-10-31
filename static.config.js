@@ -60,6 +60,15 @@ export default {
           <meta charSet="UTF-8"/>
           <meta name="viewport" content="width=device-width, initial-scale=1"/>
           {renderMeta.styleTags}
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128433230-1" />
+          <script dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-128433230-1');`
+          }}/>
         </Head>
         <Body>
         <svg className="defs-only">

@@ -27,6 +27,8 @@ export const Seo: React.SFC<IProps> = ({seo, pathname = "", sitedata}) => {
     const image = seo && seo.thumb ? seo.thumb : sitedata.thumb;
     const imgUrl = `${baseUrl}/images/${image.filename}`;
 
+    console.log(seo, imgUrl);
+
     return (
         <Head>
 
