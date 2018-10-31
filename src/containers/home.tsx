@@ -20,17 +20,34 @@ class Home extends React.Component<Props, any> {
         const {sitedata} = this.props;
         return (
             <Overlay>
-                <h1 className={"sans-serif"}>
+                <h2 className={"sans-serif"}>
                     <GradBlurLetters text={sitedata.title}
                                      colors={['#000000', '#0071bc']}
                     />
-                </h1>
+                </h2>
+                <h1 style={{display: "none"}}>{sitedata.title}</h1>
                 <br/>
-                <h1>
+                <h2>
                     <GradBlurLetters text={sitedata.description}
                                      colors={['#0071bc', '#000000']}
                     />
-                </h1>
+                </h2>
+                <h1 style={{display: "none"}}>{sitedata.description}</h1>
+                <br/>
+                <br/>
+                <div className={"links"}>
+                    <small>
+                        <a target={"_blank"} href={"https://amir.cloud"}>Amir Houieh</a>
+                    </small>
+                    <br/>
+                    <small>
+                        <a target={"_blank"} href={"https://artez.nl"}>Artez</a>
+                    </small>
+                    <br/>
+                    <small>
+                        <a target={"_blank"} href={"https://repub.amir.cloud"}>Repub project</a>
+                    </small>
+                </div>
                 <br/>
                 <br/>
                 <Link className={"sans-serif"}

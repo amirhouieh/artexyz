@@ -1,0 +1,276 @@
+{
+  "projects": [
+    {
+      "slug": "File-Sharing-Program",
+      "title": "File Sharing Program",
+      "manifesto": "In today’s society, a lot of information is corrupted. It’s filtered and that is actually not your fault. But now we have a solution. The level of filtered information now depends on you and only you.\n\nThe more people and places you visit, the more information you gain. On the other hand, you will not be able to filter. You receive all the information from the people/places that you visit, you don’t have the ability to be selective in that area. So the only way you can influence your data input is to the places you go to, or deciding not to read the article. Your selectivity won’t be fed by influencers of the higher power. Maybe now you think, how will I be able to store all this information? You don’t. You are in charge of what you save, everything that you don’t save will disappear after 24 hours. \n\nSo in short, you have a public page which loads text files (PDF, word, text) from people you encounter on a daily basis. Then it’s up to you to add a few of these files to your personal library where it will be stored until you decide you’re done with it. This is the start of a completely distributed network in which hierarchy doesn’t exist anymore and in which not only all people are equal but are also appreciated.",
+      "people": [
+        "Demi",
+        "Tofe",
+        "Ryanne",
+        "Janine"
+      ],
+      "link": "https://janinezielman.github.io/FileSharing/index.html",
+      "thumb": {
+        "filename": "1_c1u8DvZ3-sSdBoQlPreymmcj9Qr_rsN.png",
+        "width": 1319,
+        "height": 730,
+        "type": "png",
+        "ratio": 1.8068493150684932
+      },
+      "materials": [
+        {
+          "filename": "1rNHxcSIRJxluRAzciBw0Sk2UHUmUVEGI.gif",
+          "width": 4961,
+          "height": 3508,
+          "type": "gif",
+          "ratio": 1.4141961231470923
+        },
+        {
+          "filename": "1Fv6Xo-dxVzkY7rhvyGroAix5aWx9I58E.gif",
+          "width": 800,
+          "height": 450,
+          "type": "gif",
+          "ratio": 1.7777777777777777
+        },
+        {
+          "filename": "15bQz_vzYREscPxeUy56AXEHV3FfctUEr.gif",
+          "width": 4961,
+          "height": 3508,
+          "type": "gif",
+          "ratio": 1.4141961231470923
+        },
+        {
+          "filename": "1vZs1_5rgrZe6GxdUmx6MxPsZhSmuUxvS.gif",
+          "width": 800,
+          "height": 450,
+          "type": "gif",
+          "ratio": 1.7777777777777777
+        },
+        {
+          "filename": "1mE5Jepc3fpuavw4dsQ5CYeJYo9ZUYtcs.png",
+          "width": 269,
+          "height": 257,
+          "type": "png",
+          "ratio": 1.046692607003891
+        },
+        {
+          "filename": "1B9ZoRuSnYDLr-Mx3hjrrhVL0lm7DVta9.jpg",
+          "height": 406,
+          "width": 256,
+          "type": "jpg",
+          "ratio": 0.6305418719211823
+        },
+        {
+          "filename": "1g5xZlvtWkxNSc53vxFUZJQxWR97d-zWg.jpg",
+          "height": 4500,
+          "width": 8000,
+          "type": "jpg",
+          "ratio": 1.7777777777777777
+        },
+        {
+          "filename": "1fMbqbfj-J0Fvys5TkmtgVVgYgx1hx28w.jpg",
+          "height": 3000,
+          "width": 5334,
+          "type": "jpg",
+          "ratio": 1.778
+        },
+        {
+          "filename": "105qg2dT187MlHG3wo11E_4rV0I6Ty9LI.jpg",
+          "height": 3040,
+          "width": 4504,
+          "type": "jpg",
+          "ratio": 1.481578947368421
+        },
+        {
+          "filename": "1TNQ0C6cAq-lD-1jFCNdJVFr8sRNChgLS.jpg",
+          "height": 1836,
+          "width": 3004,
+          "type": "jpg",
+          "ratio": 1.636165577342048
+        }
+      ]
+    },
+    {
+      "slug": "Meshenger-Pigeons",
+      "title": "Meshenger Pigeons",
+      "manifesto": "How can you easily create an Mesh Network that works fast and spreads fast by using pigeons? We found the solution how. By creating a little mesh network transport device that the pigeons can wear, they easily transport data. Why? Because there are so many pigeons, they only need to cross each other to transport data.. Because of the already existing mesh networks in cities, there's only one pigeon necessary to transport data. In this way, there's no unnecessary harm done to the pigeons and everything still functions.",
+      "people": [
+        "Douwe",
+        "Polina",
+        "Femke",
+        "Demi"
+      ],
+      "link": "https://etherpad.net/p/Most_Motivated_Group",
+      "thumb": null,
+      "materials": [
+        {
+          "filename": "1nOtXktJe2812ia9yeSdhYdkJtZeI0hNP.jpg",
+          "height": 4032,
+          "width": 3024,
+          "type": "jpg",
+          "ratio": 0.75
+        },
+        {
+          "filename": "1AOuVwCmnQGpRM3tzIWGB70k8jkz_1nt8.jpg",
+          "height": 4032,
+          "width": 3024,
+          "type": "jpg",
+          "ratio": 0.75
+        },
+        {
+          "filename": "1DGqx8JjCeG2JX1BrUBT3R1d7WaGxsgGz.jpg",
+          "height": 4032,
+          "width": 3024,
+          "type": "jpg",
+          "ratio": 0.75
+        },
+        {
+          "filename": "1HnS2p9iJ57-a6d2Yms0HS8zFf0UNsE9a.jpg",
+          "height": 4032,
+          "width": 3024,
+          "type": "jpg",
+          "ratio": 0.75
+        },
+        {
+          "filename": "16--DmGLStVPIq5a6NGqUrJ3ndY97pq81.jpg",
+          "height": 4032,
+          "width": 3024,
+          "type": "jpg",
+          "ratio": 0.75
+        },
+        {
+          "filename": "1diKqJuGJebi0Id9GGxDZJu7SBec0sGZl.jpg",
+          "height": 4032,
+          "width": 3024,
+          "type": "jpg",
+          "ratio": 0.75
+        },
+        {
+          "filename": "1cH84q-xxiM05liTEuYc7oXt6Slbi6H45.jpg",
+          "height": 4032,
+          "width": 3024,
+          "type": "jpg",
+          "ratio": 0.75
+        }
+      ]
+    },
+    {
+      "slug": "Cookie-Swap",
+      "title": "Cookie Swap",
+      "manifesto": "We take control of the Tech Giants. These companies give us information we want in order to make us addicted to their services. However, this system gives us a very narrow perspective of what is on the internet. We keep seeing the same things over and over. \nWe have the right to see more than what these platforms provide. \nWe have the right for a more transparent internet. \n",
+      "people": [
+        "Shane",
+        "Alesia",
+        "Jane",
+        "Erwyn"
+      ],
+      "link": "https://drive.google.com/open?id=1URv5m_VN50AVhD86DIXj_cQdGTeMrEat",
+      "thumb": {
+        "filename": "1SfJ_Ca3AOXDHaM98yuIrBgfS1utLqpFO.png",
+        "width": 350,
+        "height": 358,
+        "type": "png",
+        "ratio": 0.9776536312849162
+      },
+      "materials": []
+    },
+    {
+      "slug": "Blank-Drop",
+      "title": "Blank Drop",
+      "manifesto": "Hi there, I’m blank drop\n\nI’m a box with a radio transmitter build inside. I really like it to travel to many countries and see many sights. Please take me with you and set me up on many places. I do need some power so please attach me to a power source. \n\nWith me you can transmit anonymously audio files over the world that may have strict censorship so that you can get your message across even in those countries. No government will tell you what you are allowed to hear and transmit and what not. \nI can’t tell you where I came from, this radioset is anonymous. I do have information that might be of interest to you.\n\nYou can set me up by expanding the antenna and placing me in a high area so my message will be spread across a wide range. Please find an empty fm frequency on your radio of find on the internet what the available frequencies are in your area. Then use the manual to set the dip switches in the FM transmitter. \n",
+      "people": [
+        "Silvian",
+        "Jenna",
+        "Marlijn",
+        "Josine"
+      ],
+      "link": "https://docs.google.com/document/d/16DvvmL4YjJwYz_UXZ9gEqdky-fU2pUhZpV3joS4AfGg/edit?usp=sharing                   ",
+      "thumb": {
+        "filename": "1GLNGjK2ZhI_5VxF-ktr3BmC-VQc7aQYi.jpg",
+        "height": 2480,
+        "width": 3508,
+        "type": "jpg",
+        "ratio": 1.414516129032258
+      },
+      "materials": [
+        {
+          "filename": "12776yEDTqbmaWZzPuAvNKZTPYUshBRux.jpg",
+          "height": 3508,
+          "width": 2480,
+          "type": "jpg",
+          "ratio": 0.7069555302166477
+        },
+        {
+          "filename": "1YgSWWtVoRx3lxOf20LOZ-omq5E0OlzUH.jpg",
+          "height": 3508,
+          "width": 2480,
+          "type": "jpg",
+          "ratio": 0.7069555302166477
+        },
+        {
+          "filename": "1u9kuXBvPNFzyYrIEq6mWkVWxvI1id-bi.jpg",
+          "height": 3508,
+          "width": 2480,
+          "type": "jpg",
+          "ratio": 0.7069555302166477
+        },
+        {
+          "filename": "1eyrMNYb5bmrX05vs07iQYkGJJMcgyk_1.jpg",
+          "height": 3508,
+          "width": 4961,
+          "type": "jpg",
+          "ratio": 1.4141961231470923
+        },
+        {
+          "filename": "19J7oo5hOS6qJkSRnM_RQqAdhWQltIZwq.jpg",
+          "height": 972,
+          "width": 1296,
+          "type": "jpg",
+          "ratio": 1.3333333333333333
+        },
+        {
+          "filename": "10KVjdgKetlknTsCEMkqtsAh3KmpkHLKl.jpg",
+          "height": 972,
+          "width": 1296,
+          "type": "jpg",
+          "ratio": 1.3333333333333333
+        },
+        {
+          "filename": "1F2XGIUnhF-UrFXFfV8Ou5Z0RtnHj2MWP.jpg",
+          "height": 972,
+          "width": 1296,
+          "type": "jpg",
+          "ratio": 1.3333333333333333
+        },
+        {
+          "filename": "1qI8QCehVJpk33FKbKu3yefjt5S9qdAMb.jpg",
+          "height": 2480,
+          "width": 3508,
+          "type": "jpg",
+          "ratio": 1.414516129032258
+        },
+        {
+          "filename": "1n1me3TCSdrifTH6ZCOi71RDpFHN8A7dY.jpg",
+          "height": 972,
+          "width": 1296,
+          "type": "jpg",
+          "ratio": 1.3333333333333333
+        }
+      ]
+    }
+  ],
+  "sitedata": {
+    "title": "Rexperimental Framework",
+    "description": "Rexperimental Framework happened as a 4 days workshop given by Amir Houieh with BA students from Graphic Design Arnhem, in October 2018 at Artez. The workshop aimed to discuss and develop experimental publishing frameworks in our digital realm based on decentralized and distributed networks. The workshop consist of 4 lectures and one project assignment. The workshop was an extension to Repub project. The lectures introduces topics such as content flow in digital environments, the fundamental of the web and decentralized networks like p2p. \nAs the assignment students needed to design an alternative model for content production and consumption as well as distribution in form a publishing framework. In other words they needed to design how users could produce and manage their content as well as how this content is published through a an interface. The distribution part of framework must occur on a decentralized-distributed network. \nAt the end the workshop yields into several different projects which you can read more about as follow.\n",
+    "keywords": "publishing, experimental publishing, decentralized publishing, p2p publishing",
+    "thumb": {
+      "filename": "12F9TXcG1S8ZwTsBVm3QPsV2kwt4svxk-.jpg",
+      "height": 927,
+      "width": 1920,
+      "type": "jpg",
+      "ratio": 2.071197411003236
+    },
+    "author": "amir huieh"
+  }
+}
